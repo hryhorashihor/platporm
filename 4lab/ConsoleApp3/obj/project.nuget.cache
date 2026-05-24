@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "nMqvy22/Zdo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igorg\\Desktop\\4lab\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorg\\.nuget\\packages\\system.collections.immutable\\10.0.8\\system.collections.immutable.10.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Collections.Immutable will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\igorg\\Desktop\\4lab\\ConsoleApp3\\ConsoleApp3.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\igorg\\Desktop\\4lab\\ConsoleApp3\\ConsoleApp3.csproj",
+      "libraryId": "System.Collections.Immutable",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
